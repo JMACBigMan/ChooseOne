@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChooseOne</string>
+    <string name="question">What\'s your favorite dessert?</string>
+    <string name="ice_cream">Ice Cream</string>
+    <string name="chocolate_cake">Chocolate Cake</string>
+    <string name="cookies">Cookies</string>
+    <string name="show">Show</string>
+</resources>
